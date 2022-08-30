@@ -16,4 +16,4 @@ You can learn more about my projects at <a href="http://danishdalim.com/">danish
 
 ## Stats 📊
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=danishdalim&show_icons=true&theme=default"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishdalim&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishdali&layout=compact"/>
