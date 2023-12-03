@@ -3,7 +3,7 @@
 I'm Danish Dalim, a Mechanical Design Engineer who have a passion for engineering,programming and business. As a Mechanical Design Engineer, I have led multiple projects and have experience designing automation machines in the Electric Vehicles(EV) industry! I'm also passionate about exploring new engineering technologies which I can leverage to solve real-life problems. Right now my mind is focused on learning everything that is related to Data Science!
 
 ## Learn More 📄
-You can learn more about my projects at <a href="http://danishdalim.com/">danishdalim.com</a> or my background on <a href="https://www.linkedin.com/in/danish-dalim/">LinkedIn<a>.
+You can learn more about my background on <a href="https://www.linkedin.com/in/danish-dalim/">LinkedIn<a>.
 
 ## Technologies & Tools ⚙️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
