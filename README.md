@@ -1,6 +1,6 @@
 # Hi, I'm Danish 👋🏼
 
-I'm Danish Dalim, a Mechanical Design Engineer who have a passion for engineering,programming and business. As a Mechanical Design Engineer, I have led multiple projects and have experience designing automation machines for big players in the Electric Vehicles(EV) industry! I'm also passionate about exploring new engineering technologies which I can leverage to solve real-life problems. Right now my mind is focused on learning everything that is related to Web Development!
+I'm Danish Dalim, a Mechanical Design Engineer who have a passion for engineering,programming and business. As a Mechanical Design Engineer, I have led multiple projects and have experience designing automation machines in the Electric Vehicles(EV) industry! I'm also passionate about exploring new engineering technologies which I can leverage to solve real-life problems. Right now my mind is focused on learning everything that is related to Data Science!
 
 ## Learn More 📄
 You can learn more about my projects at <a href="http://danishdalim.com/">danishdalim.com</a> or my background on <a href="https://www.linkedin.com/in/danish-dalim/">LinkedIn<a>.
